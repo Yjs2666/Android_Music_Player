@@ -10,7 +10,7 @@ Functions:
 5. Login and sign up page
 6. Recommended songs page
 
-src files under the **Yjs2666-src branch**
+src files under the **Yjs2666-src branch**,
 Full app under **release**
 
 
